@@ -33,7 +33,7 @@ body {
 }
 
 .bg-image {
-  background: radial-gradient(136.03% 54.57% at 50% 48.04%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0) 60.63%, #080a0b 99.74%), url("/images/assets/main-bg.jpg");
+  background: radial-gradient(136.03% 54.57% at 50% 48.04%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0) 60.63%, #080a0b 99.74%), url("images/assets/main-bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -121,7 +121,7 @@ body {
 }
 
 .the-games-bg {
-  background-image: url("/images/assets/the-games-bg.jpg");
+  background-image: url("images/assets/the-games-bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -145,7 +145,7 @@ body {
 }
 
 .features-bg {
-  background-image: url("/images/assets/features.jpg");
+  background-image: url("images/assets/features.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -182,7 +182,7 @@ body {
 }
 
 .system-bg {
-  background: radial-gradient(33.26% 45% at 64.32% 47.1%, rgba(255, 255, 255, 0) 3.36%, rgba(0, 0, 0, 0) 19.22%, #080a0b 99.74%), url("/images/assets/requirements.png");
+  background: radial-gradient(33.26% 45% at 64.32% 47.1%, rgba(255, 255, 255, 0) 3.36%, rgba(0, 0, 0, 0) 19.22%, #080a0b 99.74%), url("images/assets/requirements.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -224,7 +224,7 @@ body {
 }
 
 .topscore-bg {
-  background-image: url("/images/assets/top-score-bg.png");
+  background-image: url("images/assets/top-score-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -327,7 +327,7 @@ body {
 
 .newsteller-bg .img-news {
   background: radial-gradient(51.83% 41.42% at 48.17% 50%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0) 67.58%, #060708 99.74%);
-  background-image: radial-gradient(51.83% 41.42% at 48.17% 50%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0) 67.58%, #060708 99.74%), url("/images/assets/newsteller.png");
+  background-image: radial-gradient(51.83% 41.42% at 48.17% 50%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0) 67.58%, #060708 99.74%), url("images/assets/newsteller.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
